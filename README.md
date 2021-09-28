@@ -18,15 +18,17 @@ Supervised Learning
 Machine Learning Algorithm
 Classification Algorithms
 
-Usage
+Usage:
 
 Jupyter Notebook
 
-Data Analysis
+Data Analysis:
 Supervised Machine learning Techniques: + Logistic Regression Model + Plotting results + Support Vector Machine (SVM)  + Basic Random Forest + Plotting results + XG Boost 
 
-Result
+Result:
+
 The output of the code is to predict the survival(0-Die,1-Survive) of the passenger who borded on the Titanic.
 
-Author 
+Author:
+
 Nischitha Sadananda
