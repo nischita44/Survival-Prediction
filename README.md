@@ -5,6 +5,7 @@
 
 The most famous competition over the kaggle . In this Repository my intention is to basically explain the battle between various ML Algorithms that can be used as a beginner. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
 
+Overview
 Code in the repo is for the one who just begin with kaggle's Titanic competition.This basically explains all the basic concept , How to approach the any competition over kaggle and how to start with it. This notebook will not make you an expert but too damn sure it will guide you to How to get started and rest is up to you.
 
 Dependencies
